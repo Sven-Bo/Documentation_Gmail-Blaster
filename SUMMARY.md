@@ -6,12 +6,14 @@
 ## 📚 Guides
 
 * [Setting Up an App Password in Gmail](guides/setting-up-an-app-password-in-gmail.md)
+* [Sending Etiquette](guides/sending-etiquette.md)
 * [Input Fields](guides/input-fields.md)
 * [Email Composition](guides/email-composition.md)
 * [Attachments](guides/attachments.md)
 * [Placeholders](guides/placeholders.md)
 * [Signature](guides/signature.md)
 * [Delays](guides/delays.md)
+* [How to use spintext](guides/how-to-use-spintext.md)
 
 ## ⁉️ FAQ
 
