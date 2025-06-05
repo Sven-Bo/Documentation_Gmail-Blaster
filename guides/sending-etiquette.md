@@ -82,5 +82,3 @@ This tool makes sending easier. But smart sending makes sure your emails actuall
 
 Write like a person. Respect the inbox. Avoid spammy language.\
 That’s really all it takes.
-
-Let me know if you'd like a downloadable checklist or a small section at the bottom for FAQs.
