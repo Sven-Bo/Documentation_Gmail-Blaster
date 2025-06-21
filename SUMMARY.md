@@ -15,6 +15,14 @@
 * [Delays](guides/delays.md)
 * [How to use spintext](guides/how-to-use-spintext.md)
 
+***
+
+* [How to include emojis in your emails](how-to-include-emojis-in-your-emails.md)
+
+## 🛠️ Troubleshooting
+
+* [Error: 0x80040217 – Email Not Sent](troubleshooting/error-0x80040217-email-not-sent.md)
+
 ## ⁉️ FAQ
 
 * [Is Gmail Blaster secure?](faq/is-gmail-blaster-secure.md)
